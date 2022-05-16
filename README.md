@@ -1,2 +1,20 @@
-# no-background
-Simple background for "no background"
+# No Background
+
+Simple background for "no background".
+
+[Preview](http://fippli.se/no-background/)
+
+## CSS
+
+```css
+body {
+  background-repeat: repeat;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAAXnVPIAAAAMklEQVQ4EWP8DwQMeMCXb9/xyDIwMOGVJUJy1IDBEIgshOKZh4sTb2SORuNgiEaKYwEAzyQJ/yVn/CUAAAAASUVORK5CYII=");
+}
+```
+
+The base 64 string image
+
+```base64
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAAXnVPIAAAAMklEQVQ4EWP8DwQMeMCXb9/xyDIwMOGVJUJy1IDBEIgshOKZh4sTb2SORuNgiEaKYwEAzyQJ/yVn/CUAAAAASUVORK5CYII=
+```
